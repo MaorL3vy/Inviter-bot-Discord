@@ -1,6 +1,6 @@
 # Inviter bot discord
 
-![Disocrd inviter Bot]([https://img.shields.io/badge/CFX%20to%20IP%20Finder-Node.js-brightgreen](https://img.shields.io/badge/Discord.js%20Bot-inviter--bot-blueviolet))
+![Disocrd inviter Bot](https://img.shields.io/badge/Discord.js%20Bot-inviter--bot-blueviolet)
 
 ## Introduction
 
